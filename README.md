@@ -1,4 +1,4 @@
-# riverie
+# REVERIE
 
 College project, an e-commerce application with very basic functioning.
 
